@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -155,10 +155,28 @@
     <ClCompile Include="Leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Add Two Numbers_2.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStock_121.h" />
+    <ClInclude Include="BinarySearch_704.h" />
+    <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="ContainerWithMostWater_11.h" />
     <ClInclude Include="DesignTwitter_355.h" />
     <ClInclude Include="EncodeDecodeString_659.h" />
+    <ClInclude Include="FindMinimumInRotatedSortedArray_153.h" />
     <ClInclude Include="GroupAnagrams_49.h" />
     <ClInclude Include="FindDuplicateNumber_287.h" />
+    <ClInclude Include="InvertBinaryTree_226.h" />
+    <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="LongestSubstringWithoutRepeatingCharacters_3.h" />
+    <ClInclude Include="Median of Two Sorted Arrays_4.h" />
+    <ClInclude Include="MergeTwoSortedLists_21.h" />
+    <ClInclude Include="RemoveNthNodeFromEndofList_19.h" />
+    <ClInclude Include="ReverseLinkedList_206.h" />
+    <ClInclude Include="SearchInRotatedSortedArray_33.h" />
+    <ClInclude Include="ThreeSum.h" />
+    <ClInclude Include="TwoSum.h" />
+    <ClInclude Include="TwoSumII.h" />
+    <ClInclude Include="ValidParentheses_20.h" />
     <ClInclude Include="Valid_Palindrome_125.h" />
     <ClInclude Include="KClosestPointstoOrigin_973.h" />
     <ClInclude Include="KthLargestElement.h" />
